@@ -8,6 +8,34 @@ Here I will develop my private work, and also publish my public projects for the
 
 ## Languages ​​and Technologies:
 
+Linguagens:
+- Dart
+- C#
+
+Frameworks:
+- .NET Core
+- .NET Framework
+- .NET MAUI
+- Flutter
+- Xamarin.Forms
+
+Banco de Dados:
+- MySQL
+- SQLite
+- SQL Server
+
+Plataformas de desenvolvimento:
+- Windows
+- MacOS
+- Android
+- iOS
+
+Ferramentas:
+- Android Studio
+- Visual Studio
+- Visual Studio Code
+- XCode
+
 [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>]()
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
