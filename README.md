@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Hello everyone, welcome to my GitHub 👋 !!!
 
 My name is Juan Felipe Alves Flores, I am a software developer and computing student. I graduated as a Computer Technician, and am studying higher education in Systems Analysis and Development, both at IFTO - Campus Araguaína.
