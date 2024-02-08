@@ -1,12 +1,14 @@
 ### Hi there 👋
-<!--
+
 ## Hello everyone, welcome to my GitHub 👋 !!!
 
 My name is Juan Felipe Alves Flores, I am a software developer and computing student. I graduated as a Computer Technician, and am studying higher education in Systems Analysis and Development, both at IFTO - Campus Araguaína.
 
 Here I will develop my private work, and also publish my public projects for the community, in addition to study repositories.
 
-## Linguagens e Tecnologias:
+<!--
+
+## Languages ​​and Technologies:
 
 [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>]()
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
