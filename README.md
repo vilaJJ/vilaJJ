@@ -24,6 +24,8 @@ Here I will develop my private work, and also publish my public projects for the
 
 ### Tools:
 ![Android Studio](https://github.com/vilaJJ/vilaJJ/blob/a817124f2785b7b3d6ba52cd66227d0ab0006a6e/README/Tools/android_studio.svg)
+![Git](https://github.com/vilaJJ/vilaJJ/blob/d2baf444d6a8cd1e5b2ee26d9fa724beb9d24f1f/README/Tools/git.svg)
+![GitHub](https://github.com/vilaJJ/vilaJJ/blob/d2baf444d6a8cd1e5b2ee26d9fa724beb9d24f1f/README/Tools/github.svg)
 ![Visual Studio](https://github.com/vilaJJ/vilaJJ/blob/a817124f2785b7b3d6ba52cd66227d0ab0006a6e/README/Tools/visual_studio.svg)
 ![Visual Studio Code](https://github.com/vilaJJ/vilaJJ/blob/a817124f2785b7b3d6ba52cd66227d0ab0006a6e/README/Tools/visual_studio_code.svg)
 ![XCode](https://github.com/vilaJJ/vilaJJ/blob/a817124f2785b7b3d6ba52cd66227d0ab0006a6e/README/Tools/xcode.svg)
@@ -40,25 +42,6 @@ Here I will develop my private work, and also publish my public projects for the
 
 Sample icon: https://simpleicons.org/
 Static Badge: https://shields.io/badges
-
-Plataformas de desenvolvimento:
-- Windows
-- MacOS
-- Android
-- iOS
-
-[<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>]()
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux" />
-<img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=Docker" />
-<img src="https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=Git" />
-<img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
 ## Minhas redes:
 <ul>
