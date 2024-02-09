@@ -4,11 +4,14 @@ My name is Juan Felipe Alves Flores, I am a software developer and computing stu
 
 Here I will develop my private work, and also publish my public projects for the community, in addition to study repositories.
 
+### Languages:
+
+
 ### Tools:
-![Android Studio](https://github.com/vilaJJ/vilaJJ/blob/547e65d7b84456b9027e265bf9f1ac12bef07db7/README/Ferramentas/android_studio.svg)
-![Visual Studio](https://github.com/vilaJJ/vilaJJ/blob/547e65d7b84456b9027e265bf9f1ac12bef07db7/README/Ferramentas/visual_studio.svg)
-![Visual Studio Code](https://github.com/vilaJJ/vilaJJ/blob/547e65d7b84456b9027e265bf9f1ac12bef07db7/README/Ferramentas/visual_studio_code.svg)
-![XCode](https://github.com/vilaJJ/vilaJJ/blob/547e65d7b84456b9027e265bf9f1ac12bef07db7/README/Ferramentas/xcode.svg)
+![Android Studio](https://github.com/vilaJJ/vilaJJ/blob/a817124f2785b7b3d6ba52cd66227d0ab0006a6e/README/Tools/android_studio.svg)
+![Visual Studio](https://github.com/vilaJJ/vilaJJ/blob/a817124f2785b7b3d6ba52cd66227d0ab0006a6e/README/Tools/visual_studio.svg)
+![Visual Studio Code](https://github.com/vilaJJ/vilaJJ/blob/a817124f2785b7b3d6ba52cd66227d0ab0006a6e/README/Tools/visual_studio_code.svg)
+![XCode](https://github.com/vilaJJ/vilaJJ/blob/a817124f2785b7b3d6ba52cd66227d0ab0006a6e/README/Tools/xcode.svg)
 <!--
 
 ## Languages ​​and Technologies:
