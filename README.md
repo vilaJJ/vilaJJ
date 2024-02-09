@@ -4,6 +4,11 @@ My name is Juan Felipe Alves Flores, I am a software developer and computing stu
 
 Here I will develop my private work, and also publish my public projects for the community, in addition to study repositories.
 
+### Tools:
+![Android Studio](https://github.com/vilaJJ/vilaJJ/blob/547e65d7b84456b9027e265bf9f1ac12bef07db7/README/Ferramentas/android_studio.svg)
+![Visual Studio](https://github.com/vilaJJ/vilaJJ/blob/547e65d7b84456b9027e265bf9f1ac12bef07db7/README/Ferramentas/visual_studio.svg)
+![Visual Studio Code](https://github.com/vilaJJ/vilaJJ/blob/547e65d7b84456b9027e265bf9f1ac12bef07db7/README/Ferramentas/visual_studio_code.svg)
+![XCode](https://github.com/vilaJJ/vilaJJ/blob/547e65d7b84456b9027e265bf9f1ac12bef07db7/README/Ferramentas/xcode.svg)
 <!--
 
 ## Languages ​​and Technologies:
@@ -29,12 +34,6 @@ Plataformas de desenvolvimento:
 - MacOS
 - Android
 - iOS
-
-Ferramentas:
-- Android Studio
-- Visual Studio
-- ![Static Badge](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-- XCode
 
 [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>]()
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
