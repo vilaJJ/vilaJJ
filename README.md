@@ -4,6 +4,8 @@ My name is Juan Felipe Alves Flores, I am a software developer and computing stu
 
 Here I will develop my private work, and also publish my public projects for the community, in addition to study repositories.
 
+## Technologies
+
 ### Languages:
 ![C#](https://github.com/vilaJJ/vilaJJ/blob/793211b475571ee006b3c227a2d6b52fa629f49d/README/Languages/csharp.svg)
 ![Dart](https://github.com/vilaJJ/vilaJJ/blob/095dc41ca998b6e350cbe4c125c096e45f85b1ba/README/Languages/dart.svg)
@@ -17,9 +19,8 @@ Here I will develop my private work, and also publish my public projects for the
 
 ## Languages ​​and Technologies:
 
-Linguagens:
-- Dart
-- C#
+Sample icon: https://simpleicons.org/
+Static Badge: https://shields.io/badges
 
 Frameworks:
 - .NET Core
