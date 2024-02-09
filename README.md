@@ -10,6 +10,13 @@ Here I will develop my private work, and also publish my public projects for the
 ![C#](https://github.com/vilaJJ/vilaJJ/blob/793211b475571ee006b3c227a2d6b52fa629f49d/README/Languages/csharp.svg)
 ![Dart](https://github.com/vilaJJ/vilaJJ/blob/095dc41ca998b6e350cbe4c125c096e45f85b1ba/README/Languages/dart.svg)
 
+### Frameworks:
+![.NET Core](https://github.com/vilaJJ/vilaJJ/blob/8ac4471c6d5207c18d004810836f5cd4cb6da836/README/Frameworks/dotnet_core.svg)
+![.NET Framework](https://github.com/vilaJJ/vilaJJ/blob/8ac4471c6d5207c18d004810836f5cd4cb6da836/README/Frameworks/dotnet_framework.svg)
+![.NET MAUI](https://github.com/vilaJJ/vilaJJ/blob/8ac4471c6d5207c18d004810836f5cd4cb6da836/README/Frameworks/dotnet_maui.svg)
+![Flutter](https://github.com/vilaJJ/vilaJJ/blob/8ac4471c6d5207c18d004810836f5cd4cb6da836/README/Frameworks/flutter.svg)
+![Xamarin.Forms](https://github.com/vilaJJ/vilaJJ/blob/8ac4471c6d5207c18d004810836f5cd4cb6da836/README/Frameworks/xamarin_forms.svg)
+
 ### Data Base Management System (DBMS):
 ![Microsoft SQL Server](https://github.com/vilaJJ/vilaJJ/blob/266b0c9458aad9739876a06a4c834a983542007b/README/DBMS/sql_server.svg)
 ![MySQL](https://github.com/vilaJJ/vilaJJ/blob/266b0c9458aad9739876a06a4c834a983542007b/README/DBMS/mysql.svg)
@@ -26,13 +33,6 @@ Here I will develop my private work, and also publish my public projects for the
 
 Sample icon: https://simpleicons.org/
 Static Badge: https://shields.io/badges
-
-Frameworks:
-- .NET Core
-- .NET Framework
-- .NET MAUI
-- Flutter
-- Xamarin.Forms
 
 Plataformas de desenvolvimento:
 - Windows
