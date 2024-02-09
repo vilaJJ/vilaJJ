@@ -27,6 +27,13 @@ Here I will develop my private work, and also publish my public projects for the
 ![Visual Studio](https://github.com/vilaJJ/vilaJJ/blob/a817124f2785b7b3d6ba52cd66227d0ab0006a6e/README/Tools/visual_studio.svg)
 ![Visual Studio Code](https://github.com/vilaJJ/vilaJJ/blob/a817124f2785b7b3d6ba52cd66227d0ab0006a6e/README/Tools/visual_studio_code.svg)
 ![XCode](https://github.com/vilaJJ/vilaJJ/blob/a817124f2785b7b3d6ba52cd66227d0ab0006a6e/README/Tools/xcode.svg)
+
+### Final Development Platforms:
+![Android](https://github.com/vilaJJ/vilaJJ/blob/11fef597560534e9e169c1e4b826d1c7d430a7d0/README/FinalDevelopmentPlatforms/android.svg)
+![iOS](https://github.com/vilaJJ/vilaJJ/blob/11fef597560534e9e169c1e4b826d1c7d430a7d0/README/FinalDevelopmentPlatforms/ios.svg)
+![MacOS](https://github.com/vilaJJ/vilaJJ/blob/11fef597560534e9e169c1e4b826d1c7d430a7d0/README/FinalDevelopmentPlatforms/mac_os.svg)
+![Windows](https://github.com/vilaJJ/vilaJJ/blob/11fef597560534e9e169c1e4b826d1c7d430a7d0/README/FinalDevelopmentPlatforms/windows.svg)
+
 <!--
 
 ## Languages ​​and Technologies:
