@@ -4,45 +4,61 @@ My name is Juan Felipe Alves Flores. I am a software developer and computing stu
 
 Here I will develop my private work, and also publish my public projects for the community, in addition to study repositories.
 
-- 🇧🇷 I was born and live in Araguaína, Tocantins, Brazil;
-- 🎂 I'm currently **19** years old;
+- 🇧🇷 I was born and live in **Araguaína, Tocantins, Brazil**;
+- 🎂 I'm currently **19 years old**;
 - 🔭 I’m currently working on **[Nortesys - Soluções em Tecnologia](https://nortesys.com.br/)**;
-- 😄 Pronouns: He/him.
+- 😄 Pronouns: **He/him**.
 
 ## Technologies
 
-#### Languages:
-![C#](https://github.com/vilaJJ/vilaJJ/blob/793211b475571ee006b3c227a2d6b52fa629f49d/README/Languages/csharp.svg)
-![Dart](https://github.com/vilaJJ/vilaJJ/blob/095dc41ca998b6e350cbe4c125c096e45f85b1ba/README/Languages/dart.svg)
+<h4 align="center">Languages</h4>
 
-#### Frameworks:
-![.NET Core](https://github.com/vilaJJ/vilaJJ/blob/8ac4471c6d5207c18d004810836f5cd4cb6da836/README/Frameworks/dotnet_core.svg)
-![.NET Framework](https://github.com/vilaJJ/vilaJJ/blob/8ac4471c6d5207c18d004810836f5cd4cb6da836/README/Frameworks/dotnet_framework.svg)
-![.NET MAUI](https://github.com/vilaJJ/vilaJJ/blob/8ac4471c6d5207c18d004810836f5cd4cb6da836/README/Frameworks/dotnet_maui.svg)
-![Flutter](https://github.com/vilaJJ/vilaJJ/blob/8ac4471c6d5207c18d004810836f5cd4cb6da836/README/Frameworks/flutter.svg)
-![Xamarin.Forms](https://github.com/vilaJJ/vilaJJ/blob/8ac4471c6d5207c18d004810836f5cd4cb6da836/README/Frameworks/xamarin_forms.svg)
+<div align="center">
+  <img src="https://github.com/vilaJJ/vilaJJ/blob/793211b475571ee006b3c227a2d6b52fa629f49d/README/Languages/csharp.svg" alt="C#"> 
+  <img src="https://github.com/vilaJJ/vilaJJ/blob/095dc41ca998b6e350cbe4c125c096e45f85b1ba/README/Languages/dart.svg" alt="Dart"> 
+</div>
 
-#### Data Base Management System (DBMS):
-![Microsoft SQL Server](https://github.com/vilaJJ/vilaJJ/blob/266b0c9458aad9739876a06a4c834a983542007b/README/DBMS/sql_server.svg)
-![MySQL](https://github.com/vilaJJ/vilaJJ/blob/266b0c9458aad9739876a06a4c834a983542007b/README/DBMS/mysql.svg)
-![SQLite](https://github.com/vilaJJ/vilaJJ/blob/266b0c9458aad9739876a06a4c834a983542007b/README/DBMS/sqlite.svg)
+<h4 align="center">Frameworks</h4>
 
-#### Tools:
-![Android Studio](https://github.com/vilaJJ/vilaJJ/blob/a817124f2785b7b3d6ba52cd66227d0ab0006a6e/README/Tools/android_studio.svg)
-![Git](https://github.com/vilaJJ/vilaJJ/blob/d2baf444d6a8cd1e5b2ee26d9fa724beb9d24f1f/README/Tools/git.svg)
-![GitHub](https://github.com/vilaJJ/vilaJJ/blob/d2baf444d6a8cd1e5b2ee26d9fa724beb9d24f1f/README/Tools/github.svg)
-![Visual Studio](https://github.com/vilaJJ/vilaJJ/blob/a817124f2785b7b3d6ba52cd66227d0ab0006a6e/README/Tools/visual_studio.svg)
-![Visual Studio Code](https://github.com/vilaJJ/vilaJJ/blob/a817124f2785b7b3d6ba52cd66227d0ab0006a6e/README/Tools/visual_studio_code.svg)
-![XCode](https://github.com/vilaJJ/vilaJJ/blob/a817124f2785b7b3d6ba52cd66227d0ab0006a6e/README/Tools/xcode.svg)
+<div align="center">
+  <img src="https://github.com/vilaJJ/vilaJJ/blob/8ac4471c6d5207c18d004810836f5cd4cb6da836/README/Frameworks/dotnet_core.svg" alt=".NET Core"> 
+  <img src="https://github.com/vilaJJ/vilaJJ/blob/8ac4471c6d5207c18d004810836f5cd4cb6da836/README/Frameworks/dotnet_framework.svg" alt=".NET Framework">
+  <img src="https://github.com/vilaJJ/vilaJJ/blob/8ac4471c6d5207c18d004810836f5cd4cb6da836/README/Frameworks/dotnet_maui.svg" alt=".NET MAUI">
+  <img src="https://github.com/vilaJJ/vilaJJ/blob/8ac4471c6d5207c18d004810836f5cd4cb6da836/README/Frameworks/flutter.svg" alt="Flutter">
+  <img src="https://github.com/vilaJJ/vilaJJ/blob/8ac4471c6d5207c18d004810836f5cd4cb6da836/README/Frameworks/xamarin_forms.svg" alt="Xamarin.Forms">
+</div>
 
-#### Final Development Platforms:
-![Android](https://github.com/vilaJJ/vilaJJ/blob/11fef597560534e9e169c1e4b826d1c7d430a7d0/README/FinalDevelopmentPlatforms/android.svg)
-![iOS](https://github.com/vilaJJ/vilaJJ/blob/11fef597560534e9e169c1e4b826d1c7d430a7d0/README/FinalDevelopmentPlatforms/ios.svg)
-![MacOS](https://github.com/vilaJJ/vilaJJ/blob/11fef597560534e9e169c1e4b826d1c7d430a7d0/README/FinalDevelopmentPlatforms/mac_os.svg)
-![Windows](https://github.com/vilaJJ/vilaJJ/blob/11fef597560534e9e169c1e4b826d1c7d430a7d0/README/FinalDevelopmentPlatforms/windows.svg)
+<h4 align="center">Data Base Management System (DBMS)</h4>
+
+<div align="center">
+  <img src="https://github.com/vilaJJ/vilaJJ/blob/266b0c9458aad9739876a06a4c834a983542007b/README/DBMS/sql_server.svg" alt="Microsoft SQL Server"> 
+  <img src="https://github.com/vilaJJ/vilaJJ/blob/266b0c9458aad9739876a06a4c834a983542007b/README/DBMS/mysql.svg" alt="MySQL">
+  <img src="https://github.com/vilaJJ/vilaJJ/blob/266b0c9458aad9739876a06a4c834a983542007b/README/DBMS/sqlite.svg" alt="SQLite">
+</div>
+
+<h4 align="center">Tools</h4>
+
+<div align="center">
+  <img src="https://github.com/vilaJJ/vilaJJ/blob/a817124f2785b7b3d6ba52cd66227d0ab0006a6e/README/Tools/android_studio.svg" alt="Android Studio"> 
+  <img src="https://github.com/vilaJJ/vilaJJ/blob/d2baf444d6a8cd1e5b2ee26d9fa724beb9d24f1f/README/Tools/git.svg" alt="Git"> 
+  <img src="https://github.com/vilaJJ/vilaJJ/blob/d2baf444d6a8cd1e5b2ee26d9fa724beb9d24f1f/README/Tools/github.svg" alt="GitHub"> 
+  <img src="https://github.com/vilaJJ/vilaJJ/blob/a817124f2785b7b3d6ba52cd66227d0ab0006a6e/README/Tools/visual_studio.svg" alt="Visual Studio"> 
+  <img src="https://github.com/vilaJJ/vilaJJ/blob/a817124f2785b7b3d6ba52cd66227d0ab0006a6e/README/Tools/visual_studio_code.svg" alt="Visual Studio Code"> 
+  <img src="https://github.com/vilaJJ/vilaJJ/blob/a817124f2785b7b3d6ba52cd66227d0ab0006a6e/README/Tools/xcode.svg" alt="XCode"> 
+</div>
+
+<h4 align="center">Final Development Platforms</h4>
+
+<div align="center">
+  <img src="https://github.com/vilaJJ/vilaJJ/blob/11fef597560534e9e169c1e4b826d1c7d430a7d0/README/FinalDevelopmentPlatforms/android.svg" alt="Android">
+  <img src="https://github.com/vilaJJ/vilaJJ/blob/11fef597560534e9e169c1e4b826d1c7d430a7d0/README/FinalDevelopmentPlatforms/ios.svg" alt="iOS">
+  <img src="https://github.com/vilaJJ/vilaJJ/blob/11fef597560534e9e169c1e4b826d1c7d430a7d0/README/FinalDevelopmentPlatforms/mac_os.svg" alt="MacOS">
+  <img src="https://github.com/vilaJJ/vilaJJ/blob/11fef597560534e9e169c1e4b826d1c7d430a7d0/README/FinalDevelopmentPlatforms/windows.svg" alt="Windows">
+</div>
 
 ## My stats
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vilaJJ&count_private=true&show_icons=true&layout=pie&langs_count=100)
+
 <!--
 
 Sample icon: https://simpleicons.org/
@@ -71,17 +87,4 @@ Static Badge: https://shields.io/badges
 <p>
   <img src="https://gpvc.arturio.dev/iurygdeoliveira" alt="profile views">
 </p>
-
-**vilaJJ/vilaJJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
