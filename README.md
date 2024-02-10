@@ -4,7 +4,7 @@ My name is Juan Felipe Alves Flores. I am a software developer and computing stu
 
 Here I will develop my private work, and also publish my public projects for the community, in addition to study repositories.
 
-- 🇧🇷 I was born and live in **Araguaína, Tocantins, Brazil**;
+- 🌆 I was born and live in **Araguaína, Tocantins, Brazil**;
 - 🎂 I'm currently **19 years old**;
 - 🔭 I’m currently working on **[Nortesys - Soluções em Tecnologia](https://nortesys.com.br/)**;
 - 😄 Pronouns: **He/him**.
