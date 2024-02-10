@@ -56,8 +56,27 @@ Here I will develop my private work, and also publish my public projects for the
   <img src="https://github.com/vilaJJ/vilaJJ/blob/11fef597560534e9e169c1e4b826d1c7d430a7d0/README/FinalDevelopmentPlatforms/windows.svg" alt="Windows">
 </div>
 
-## My stats
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vilaJJ&count_private=true&show_icons=true&layout=pie&langs_count=100)
+<h2>Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilaJJ&count_private=true&show_icons=true&layout=pie&langs_count=10" alt="Languages stats">
+</div>
+
+<h2>Contacts and Social Networks</h2>
+
+<div align="center">
+  <a href="mailto:juan.felipe.alves.flores@gmail.com">
+    <img src="https://github.com/vilaJJ/vilaJJ/blob/ca9b66aafd2a6efd5febbad6064f074cb7869b98/README/SocialNetwork/email.svg" alt="Email">
+  </a>
+  <a href="https://github.com/vilaJJ">
+    <img src="https://github.com/vilaJJ/vilaJJ/blob/ca9b66aafd2a6efd5febbad6064f074cb7869b98/README/SocialNetwork/github.svg" alt="GitHub">
+  </a>
+  <a href="https://www.instagram.com/rjuan23">
+    <img src="https://github.com/vilaJJ/vilaJJ/blob/ca9b66aafd2a6efd5febbad6064f074cb7869b98/README/SocialNetwork/instagram.svg" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/juan-felipe-alves-flores/">
+    <img src="https://github.com/vilaJJ/vilaJJ/blob/ca9b66aafd2a6efd5febbad6064f074cb7869b98/README/SocialNetwork/linkedin.svg" alt="LinkedIn">
+  </a>
+</div>
 
 <!--
 
