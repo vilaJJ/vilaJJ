@@ -64,16 +64,16 @@ Here I will develop my private work, and also publish my public projects for the
 <h2>Contacts and Social Networks</h2>
 
 <div align="center">
-  <a href="mailto:juan.felipe.alves.flores@gmail.com">
+  <a href="mailto:juan.felipe.alves.flores@gmail.com" target="_blank">
     <img src="https://github.com/vilaJJ/vilaJJ/blob/ca9b66aafd2a6efd5febbad6064f074cb7869b98/README/SocialNetwork/email.svg" alt="Email">
   </a>
-  <a href="https://github.com/vilaJJ">
+  <a href="https://github.com/vilaJJ" target="_blank">
     <img src="https://github.com/vilaJJ/vilaJJ/blob/ca9b66aafd2a6efd5febbad6064f074cb7869b98/README/SocialNetwork/github.svg" alt="GitHub">
   </a>
-  <a href="https://www.instagram.com/rjuan23">
+  <a href="https://www.instagram.com/rjuan23" target="_blank">
     <img src="https://github.com/vilaJJ/vilaJJ/blob/ca9b66aafd2a6efd5febbad6064f074cb7869b98/README/SocialNetwork/instagram.svg" alt="Instagram">
   </a>
-  <a href="https://www.linkedin.com/in/juan-felipe-alves-flores/">
+  <a href="https://www.linkedin.com/in/juan-felipe-alves-flores/" target="_blank">
     <img src="https://github.com/vilaJJ/vilaJJ/blob/ca9b66aafd2a6efd5febbad6064f074cb7869b98/README/SocialNetwork/linkedin.svg" alt="LinkedIn">
   </a>
 </div>
