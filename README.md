@@ -71,7 +71,7 @@ Here I will develop my private work, and also publish my public projects for the
     <img src="https://github.com/vilaJJ/vilaJJ/blob/ca9b66aafd2a6efd5febbad6064f074cb7869b98/README/SocialNetwork/github.svg" alt="GitHub">
   </a>
   <a href="https://www.instagram.com/rjuan23" target="_blank">
-    <img src="https://github.com/vilaJJ/vilaJJ/blob/ca9b66aafd2a6efd5febbad6064f074cb7869b98/README/SocialNetwork/instagram.svg" alt="Instagram">
+    <img src="https://github.com/vilaJJ/vilaJJ/blob/bb2af077cfd4307a7450b487560796b7483b9c67/README/SocialNetwork/instagram.svg" alt="Instagram">
   </a>
   <a href="https://www.linkedin.com/in/juan-felipe-alves-flores/" target="_blank">
     <img src="https://github.com/vilaJJ/vilaJJ/blob/ca9b66aafd2a6efd5febbad6064f074cb7869b98/README/SocialNetwork/linkedin.svg" alt="LinkedIn">
